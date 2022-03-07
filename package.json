@@ -1,0 +1,7 @@
+{
+  "name": "graphql-api-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chaunk",
+  "license": "MIT"
+}
